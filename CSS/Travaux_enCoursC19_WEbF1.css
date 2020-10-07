@@ -34,6 +34,18 @@ h1, h2 {
 	font-family: segoe script, sans-serif;
 }
 
+#pHeader {
+	font-family: sans-serif;
+	margin: -5% 0% 0% 11%;
+	padding: 1%;
+}
+
+#pFooter {
+	font-family: sans-serif;
+	margin: -2% 1% 1% 6%;
+	padding: 0% 0% 0% 0%;
+}
+
 p, h1, h2 {
 	color: #a0522d;
 }
