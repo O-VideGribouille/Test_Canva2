@@ -1,0 +1,52 @@
+body {
+	background-color: #d2b48c;
+}
+
+
+
+div {
+	background-color: #FFFAFA;
+	width: 450px;
+
+margin: 10%;
+
+padding: 5%;
+
+border-radius: 15px;
+
+box-shadow:
+  0 6.7px 5.3px rgba(0, 0, 0, 0.3),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.2),
+  0 100px 80px rgba(0, 0, 0, 0.1)
+;
+}
+
+#global {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: auto;
+	background-color: transparent;
+	align-items: center;
+}
+
+h1, h2 {
+	font-family: segoe script, sans-serif;
+}
+
+p, h1, h2 {
+	color: #a0522d;
+}
+
+canvas {
+	margin: 3%;
+}
+
+/*
+canvas:nth-child(13,14) {
+	margin: -2%;
+} */
+
+#boat, #JOflag {
+	margin: -4%;
+}
